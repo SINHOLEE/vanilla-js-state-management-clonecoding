@@ -4,7 +4,7 @@
 
 - react, vue 등 다양한 프레임 워크를 수박 겉 핥기 식으로 다루어 보았습니다. 이때 항상 같이 사용하는 라이브러리가 전역 state 관리 툴인데, 이 도구 사용 없이 프로젝트를 진행하다보니 과연 없으면 얼마나 불편할까가 궁금했습니다. 하여 해당 프로젝트를 진행하면서, state 관리 라이브러리의 로직은 어떻게 동작하는지 직접 코드로 짜보면서 이해하는 시간을 가지려고 합니다.
 
-- 해당 프로젝트는 [링크]("https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/")를 필두로 쫒아가는 방식으로 진행합니다.
+- 해당 프로젝트는 [링크](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript)를 필두로 쫒아가는 방식으로 진행합니다.
 
 ### 라이브러리 개발
 
